@@ -1,6 +1,6 @@
-# background_flutter
+# Listview Builder in Flutter
 
-A new Flutter project.
+in this project i have covered how to create listview using listviewbuilder in flutter using dynamic array of 1000 items
 
 ## Getting Started
 
